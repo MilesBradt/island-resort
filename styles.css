@@ -1,1 +1,31 @@
+h1{
+  text-align: center;
+}
 
+.hyperlinks{
+  text-align: center;
+  font-size: 32px;
+  font-style: bold;
+}
+
+.hut{
+  border-radius: 50px;
+  text-align: center;
+
+}
+
+p{
+  text-align: center;
+}
+
+.description{
+  text-align: center;
+}
+
+li{
+  text-align: center;
+}
+
+.img{
+  text-align: center;
+}
