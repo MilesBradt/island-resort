@@ -1,0 +1,32 @@
+Layout
+
+travel arrangements --- activities --- accommodations
+
+Image of hut
+
+Description of resort
+
+Contact email/555-555-5555
+
+Light and dark theme
+
+
+
+
+"The investor doesn’t know exactly what style they want for the website, so they have asked you to use your best judgement and provide them with at least two options for styling so they can make their decision later.
+
+Make a branch for each style and when you are done, put in a help request and ask your "investor" (teacher) over to see their options and decide which style they would prefer. Once they have made their selection, merge that branch into master"
+
+Steps:
+  - Layout html with hyper links
+  - Create CSS stylesheet
+  - Make sure fonts are organized
+  - Branch two different themes
+
+
+README layout:
+  - Names
+  - Project Name
+  - Description
+  - Link to GitHub pages
+  - Copyright and license info
