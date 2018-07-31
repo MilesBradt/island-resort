@@ -1,13 +1,17 @@
 h1{
   text-align: center;
+  color: #C0C0C0;
 }
 
 .hyperlinks{
   text-align: center;
-  font-size: 32px;
+  font-size: 32.10px;
   font-style: bold;
-}
 
+}
+a{
+  color: #708090;
+}
 .hut{
   border-radius: 50px;
   text-align: center;
@@ -16,16 +20,23 @@ h1{
 
 p{
   text-align: center;
+  color: #C0C0C0;
 }
 
 .description{
   text-align: center;
+  color: #C0C0C0;
 }
 
 li{
   text-align: center;
+  color: #C0C0C0;
 }
 
 .img{
   text-align: center;
+}
+
+body{
+  background-color: #494949;
 }
