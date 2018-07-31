@@ -31,7 +31,15 @@ li{
 }
 
 .img{
-  text-align: center;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+.swim{
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
 }
 
 body{
