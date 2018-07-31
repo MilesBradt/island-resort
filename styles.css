@@ -1,5 +1,8 @@
 h1{
   text-align: center;
+  font-family: cursive;
+  font-size: 72px;
+  color: #654321;
 }
 
 .hyperlinks{
@@ -15,7 +18,7 @@ h1{
 }
 
 a{
-  color: #393939;
+  color: #654321;
 }
 
 .hut{
@@ -30,22 +33,33 @@ p{
 
 .description{
   text-align: center;
+  color: #654321;
 }
 
 li{
   text-align: center;
+  color: #654321;
 }
 
 .img{
   border-radius: 50%;
   display: block;
   margin: 0 auto;
+  width: 700px;
+  height: 500px;
 }
 
 .swim{
   border-radius: 50%;
   display: block;
   margin: 0 auto;
+  width: 700px;
+  height: 500px;
+}
+
+.tree{
+
+
 }
 
 body{
