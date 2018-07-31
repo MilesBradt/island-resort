@@ -8,6 +8,10 @@ h1{
   font-style: bold;
 }
 
+a{
+  color: #393939;
+}
+
 .hut{
   border-radius: 50px;
   text-align: center;
@@ -28,4 +32,8 @@ li{
 
 .img{
   text-align: center;
+}
+
+body{
+  background-image: url("img/light-blue-background.jpg");
 }
